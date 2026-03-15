@@ -19,7 +19,7 @@
 
 I am a **Technical Analyst specialising in Artificial Intelligence, Data Analytics, and Cybersecurity Operations**.
 
-With a degree in Marketing and Sales and over **15 years of commercial strategy experience**, I bring a business-first perspective to every technical system I build. Earlier in my career, I served as **Regional Manager of São Paulo State, Brazil** — leading teams and supervisors executing high-stakes marketing operations for global enterprise brands including **Coca-Cola, Visa, Sony, Johnnie Walker, and Havaianas**.
+With a degree in Marketing and over **15 years of marketing strategy experience**, I bring a business-first perspective to every technical system I build. Earlier in my career, I served as **Regional Manager** — leading teams and supervisors executing high-stakes marketing operations for global enterprise brands including **Coca-Cola, Visa, Sony, Johnnie Walker, and Havaianas**.
 
 My transition into technology was a natural evolution of my work in digital business and data-driven marketing. Driving that transition through web development and online marketing exposed the raw mechanics of the modern economy. That experience made one thing clear: **modern organisations increasingly depend on advanced analytics, AI systems, and secure digital infrastructure.** I responded by upskilling — deeply — across the three disciplines that define modern technical execution.
 
@@ -165,7 +165,7 @@ Identifies weak password hashes within a credential database using wordlist-base
 
 ## 🌏 The Bigger Picture
 
-Ten years ago I relocated to Australia with a clear objective: to upskill, expand my global perspective, and position myself at the frontier of technology. The market was evolving rapidly — AI, data infrastructure, and cybersecurity were no longer optional specialisations, they were becoming the foundation of every competitive business. I responded by committing fully: studying, building, and earning my qualifications here in Australia.
+Earlier in my career, I was São Paulo State Manager in Brazil, leading large-scale operations for some of the world's most recognised brands. More than a decade ago, I made a deliberate decision: I relocated to Australia to upskill, expand my global perspective, and position myself at the frontier of technology. The market was evolving rapidly — AI, data infrastructure, and cybersecurity were no longer optional specialisations - they were becoming the foundation of every competitive business. I responded by committing fully: studying, building, and earning my qualifications here in Australia.
 
 That same drive — the willingness to challenge myself, adapt to new environments, and build from the ground up — is exactly what I bring to every technical system I design.
 
