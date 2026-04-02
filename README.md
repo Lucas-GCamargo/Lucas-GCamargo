@@ -7,7 +7,7 @@
 <br>
 *AI Forecasting &nbsp;·&nbsp; SOC Monitoring &nbsp;·&nbsp; Data Intelligence*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--camargo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-camargo-614307139/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasgcamargo?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgcamargo/)
 [![Email](https://img.shields.io/badge/Email-lucascamargo%40outlook.com.au-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lucascamargo@outlook.com.au)
 [![Location](https://img.shields.io/badge/Perth%2C_Western_Australia-Australian_Citizen-00B4D8?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Lucas-GCamargo)
 
@@ -178,7 +178,7 @@ I focus on building systems that transform data into strategic insight, predict 
 ## 📫 Contact
 
 - 📧 [lucascamargo@outlook.com.au](mailto:lucascamargo@outlook.com.au)
-- 🔗 [linkedin.com/in/lucas-camargo-614307139](https://www.linkedin.com/in/lucas-camargo-614307139/)
+- 🔗 [linkedin.com/in/lucasgcamargo](https://www.linkedin.com/in/lucasgcamargo/)
 - 💼 [github.com/Lucas-GCamargo](https://github.com/Lucas-GCamargo)
 
 ---
