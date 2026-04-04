@@ -27,7 +27,7 @@ My transition into technology was a natural evolution of my work in digital busi
 
 ## 🤖 Artificial Intelligence — The Business Advantage
 
-We operate in a market where AI dictates business survival.
+I build end-to-end machine learning systems that analyse historical data, identify hidden patterns, and forecast future outcomes with algorithmic precision.
 
 I build end-to-end machine learning systems using Python that analyse historical data, identify hidden patterns, and forecast future outcomes with algorithmic precision. My flagship project — **TrendPredictor AI** — is a full ML pipeline that ingests data from multiple sources, applies advanced preprocessing and feature engineering, tunes models using Bayesian optimisation, and delivers actionable forecasts directly to decision-makers.
 
