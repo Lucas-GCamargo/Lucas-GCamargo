@@ -104,7 +104,7 @@ Multi-source ETL  →  Feature Engineering  →  Model Selection
 
 The architecture demonstrated here is directly transferable to **cybersecurity anomaly detection**, user behaviour analytics (UEBA), and threat classification systems — the same pattern recognition logic that forecasts market trends can detect network intrusions.
 
-> Architecture fully documented. Core predictive logic withheld to protect intellectual property — full walkthrough available on request: [lucascamargo@outlook.com.au](mailto:lucascamargo@outlook.com.au)
+> Full project walkthrough available on request: [lucascamargo@outlook.com.au](mailto:lucascamargo@outlook.com.au)
 
 ---
 
